@@ -16,7 +16,7 @@ public class AddressBook {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.println("Address Book");
 		BuddyInfo buddy =  new BuddyInfo("tareq", 19);
 		AddressBook addressBook = new AddressBook();
